@@ -1,0 +1,1 @@
+MICROBE WARRIOR: BATTLE FOR HEALTH is an educational 2D platformer revolving around the human body's cells at work, fighting against microorganisms that bring threats of causing diseases. Developed as our final project for CPE406 - Object-Oriented Programming (May 2024)
